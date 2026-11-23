@@ -21,6 +21,6 @@ Hi 👋 My name is Isheanesu Zishiri
 
 ![Isheanesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manneredmaniac&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manneredmaniac)](https://github.com/manneredmaniac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manneredmaniac&layout=donut)](https://github.com/manneredmaniac/github-readme-stats)
 ---
 ![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVyYTVzemt5MHlxN2Q2MDA1ZGZodDM3NWJmejF2cmc0MDN2cGQycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U7JMQ68xY5aFOdRbZW/giphy.webp)
