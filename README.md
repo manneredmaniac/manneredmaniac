@@ -29,3 +29,6 @@ Hi 👋 My name is Isheanesu Zishiri
 <a href="https://github.com/manneredmaniac" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manneredmaniac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+
+---
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVyYTVzemt5MHlxN2Q2MDA1ZGZodDM3NWJmejF2cmc0MDN2cGQycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U7JMQ68xY5aFOdRbZW/giphy.webp)
